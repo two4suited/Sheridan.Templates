@@ -1,0 +1,11 @@
+{
+  "appHost": {
+    "path": "Aspire-StarterApplication.1.AppHost/Aspire-StarterApplication.1.AppHost.csproj"
+  },
+  "integrationSources": {
+    "sheridan": {
+      "source": "https://api.nuget.org/v3/index.json",
+      "patterns": ["Sheridan.Aspire.Pulumi.*"]
+    }
+  }
+}
